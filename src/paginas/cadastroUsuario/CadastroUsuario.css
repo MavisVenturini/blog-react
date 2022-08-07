@@ -1,0 +1,17 @@
+.imagem2 {
+    background-image: url(https://www.nicepng.com/png/full/778-7787549_ginger-heads-images-merida-hd-wallpaper-and-background.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-Height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2 {
+    font-weight: bold !important;
+
+}
+
+.btnCancelar {
+    margin-right: 20px !important;
+}   
